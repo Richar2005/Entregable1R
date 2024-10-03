@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428417968813",
+    "project_id": "carrito-de-compras-9039d",
+    "storage_bucket": "carrito-de-compras-9039d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428417968813:android:aa883a1b65e35e57d27424",
+        "android_client_info": {
+          "package_name": "com.example.trabajofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRA5OIOfZX8eMCF3Yq7YuujPeUb3qnds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
